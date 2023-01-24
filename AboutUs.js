@@ -18,7 +18,7 @@ class AboutUs extends Component {
     this.setState({show:true})
   var go= await AsyncStorage.getItem("role")
 this.setState({role:go})
-        console.log('Hello this is it')
+        console.log('Hello this is Viren Bhardwaj')
         
             
     
